@@ -16,28 +16,28 @@ let rooms = [{
     pricePerhr:"100"
 }];
 let bookings = [{
-    customer: "Selva",
+    customer: "Selsiya",
     bookingDate: "20230612",
     startTime: "12:00pm",
     endTime: "11:59am",
     bookingID: "B1",
     roomId: "R1",
     status: "booked",
-    booked_On: "3/7/2023"
+    booked_On: "1/9/2024"
 }
 ];
 let customers = [
-    { name: 'Selva',
+    { name: 'Selsiya',
      bookings: [ 
         {
-            customer: 'Selva',
+            customer: 'Selsiya',
             bookingDate: '20230612',
             startTime: '12:00pm',
             endTime: '11:59am',
             bookingID: 'B1',
             roomId: 'R1',
             status: 'booked',
-            booked_On: '3/7/2023'
+            booked_On: '1/9/2024'
           }
       ] }
 ];
